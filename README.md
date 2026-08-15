@@ -13,7 +13,9 @@ A simple rule-based chatbot made using Python.
 - Can exit when the user types bye, exit or quit
 
 ### Technologies Used
+
 - Python
+
 
 ### How to Run
 1. Open the `chatbot.py` file.
@@ -22,7 +24,27 @@ A simple rule-based chatbot made using Python.
 
 ## Task 2 - Tic-Tac-Toe AI
 
-Coming soon...
+A simple Tic Tac Toe game made using Python.
+
+### Features
+
+- Player can play against the computer
+- 3 x 3 game board
+- Checks for winner
+- Checks for draw
+- Shows the game board after each move
+
+### Technologies Used
+
+- Python
+
+### How to Run
+
+1. Open the `tic_tac_toe.py` file.
+2. Run the program using Python.
+3. Enter a position from 1 to 9 when asked.
+4. Play the game and try to win against the computer.
+
 
 ## Task 3
 
