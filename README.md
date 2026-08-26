@@ -48,4 +48,28 @@ A simple Tic Tac Toe game made using Python.
 
 ## Task 3
 
-Coming soon...
+## Task 3 - Image Captioning
+
+A simple image captioning project using Python and a pre-trained BLIP model.
+
+### Features
+
+- Takes an image path from the user
+- Uses a pre-trained BLIP model
+- Generates a caption for the image
+- Displays the generated caption
+
+### Technologies Used
+
+- Python
+- Transformers
+- PyTorch
+- Pillow
+- BLIP Model
+
+### How to Run
+
+1. Install the required libraries.
+2. Run the `image_captioning.py` file.
+3. Enter the path of an image.
+4. The AI model will generate a caption for the image.
