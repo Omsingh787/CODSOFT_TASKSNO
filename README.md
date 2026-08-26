@@ -46,7 +46,6 @@ A simple Tic Tac Toe game made using Python.
 4. Play the game and try to win against the computer.
 
 
-## Task 3
 
 ## Task 3 - Image Captioning
 
